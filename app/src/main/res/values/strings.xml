@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyListViewSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_initial">InitialActivity</string>
+    <string name="title_activity_button_inside_list_view">ButtonInsideListViewActivity</string>
+</resources>
